@@ -8,7 +8,7 @@
 <sup>b</sup> Department of Mechanical and Energy Engineering, Southern University of Science and Technology, Shenzhen, China <br/>
 <sup>c</sup> Shenzhen Research Institute of Big Data, Shenzhen, China <br/>
 <sup>\*</sup> Corresponding author: [Prof. T.S. Zhao](https://scholar.google.com/citations?user=0mUWHUQAAAAJ&hl=en) <br/>
-<sup>\*</sup> Corresponding author: [Prof. W.J. Li](https://scholar.google.com/citations?useruser=pI-WVJMAAAAJ&hl=en) <br/>
+<sup>\*</sup> Corresponding author: [Prof. W.J. Li](https://scholar.google.com/citations?user=pI-WVJMAAAAJ&hl=en&oi=ao) <br/>
 <sup>1</sup> These authors contributed equally to this work. <br/>
 
 ## Abstract
